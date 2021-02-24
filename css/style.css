@@ -125,6 +125,7 @@ svg.cross path {
 
     
 .rainbow {
+    font-size: 150px;
     -webkit-animation:rainbow 1s infinite;
     -ms-animation:rainbow 1s infinite;
     -o-animation:rainbow 1s infinite;
