@@ -1,0 +1,35 @@
+body { 
+    background: teal;
+}
+
+h1 {
+    font-size: 150;
+    color: rgb(231, 228, 228);
+    text-align: center;
+    font-family: 'Courier New', Courier, monospace;
+}
+p {
+    color: lightgray;
+    text-align: center;
+    font-family: 'Courier New', Courier, monospace;
+}
+h2 {
+    
+    color: silver;
+    text-align:center;
+    font-family: 'Courier New', Courier, monospace;
+}
+a {
+    text-align: center;
+}
+.link{
+    text-align: center;
+    color: purple;
+}
+.center{
+    display:block;
+    margin-left: auto;
+    margin-right: auto;
+    
+}
+    
