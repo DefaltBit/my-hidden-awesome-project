@@ -1,5 +1,8 @@
 body { 
-    background: teal;
+    background-image: url("../img/xp.jpg");
+    background-position: center;
+    background-size: cover;
+    height: 100%;
 }
 
 h1 {
@@ -183,3 +186,10 @@ svg.cross path {
     90% {color: #8000ff;}
     100% {color: #ff0080;}
     }
+    footer {
+        text-align: center;
+        padding: 0px;
+        background-color: white;
+        color: black;
+        margin: 200px 0px 0px 0px;
+      }
